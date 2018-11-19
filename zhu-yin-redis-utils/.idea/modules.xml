@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zhu-yin-r-utils.iml" filepath="$PROJECT_DIR$/zhu-yin-r-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhu-yin-redis-utils.iml" filepath="$PROJECT_DIR$/zhu-yin-redis-utils.iml" />
+    </modules>
+  </component>
+</project>
