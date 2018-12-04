@@ -64,7 +64,7 @@
         <dependency>
             <groupId>com.aliyun</groupId>
             <artifactId>aliyun-java-sdk-core</artifactId>
-            <version>4.0.6</version>
+            <version>4.0.7</version>
         </dependency>
 
         <dependency>
@@ -83,6 +83,20 @@
             <groupId>com.aliyun.oss</groupId>
             <artifactId>aliyun-sdk-oss</artifactId>
             <version>2.8.2</version>
+        </dependency>
+
+        <!--号码隐私保护-->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-dyplsapi</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+
+        <!--实人认证-->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-cloudauth</artifactId>
+            <version>1.1.4</version>
         </dependency>
     </dependencies>
 

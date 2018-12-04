@@ -27,7 +27,7 @@ public class ParamUtils {
             } catch (IllegalAccessException e) {
                 e.printStackTrace();
             }
-            if (o == null || o == "" || "null".equalsIgnoreCase((String) o))
+            if (o == null || o == "" || "".equals(o) || "null".equalsIgnoreCase((String) o))
                 throw new ServiceException(paramValidation.paramMessage());
         }
     }
